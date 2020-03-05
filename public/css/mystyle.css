@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+}
+.Aboutus{
+    font-size: 30px;
+    padding: 25px 50px 0px 100px;
+}
+.Aboutustext{
+    font-size: 20px;
+    padding: 0px 50px 75px 100px;
+
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    max-width:100% ;margin: 0 auto; display: block;
+}
+ul {
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    width: 80%;
+    max-width:100% ;margin: 0 auto; display: block;
+  }
+  
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 24px 26px;
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+td, th {
+    border: 5px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.tdcontent1{
+    text-align: center;
+}
+.tdcontent2{
+    text-align: center;
+}
+.abovefooter {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+  }

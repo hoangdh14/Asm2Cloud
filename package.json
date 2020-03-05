@@ -1,0 +1,25 @@
+{
+  "name": "asm2cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myserver.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node myserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangdh14/Asm2Cloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangdh14/Asm2Cloud/issues"
+  },
+  "homepage": "https://github.com/hoangdh14/Asm2Cloud#readme"
+}
